@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b535b6b1419733678a05256024c7095ba0d4b42d">
+        <dex dex="/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9e7810d5c08e40796a6cbd4a4e82e69dac707ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="66918a09b0b97089ebc1e265e7323c160be86563">
+        <dex dex="/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/pre-dexed/debug/instant-run_117fbcea3f3c6f68d548ed5efabc17d33ae1e6b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ammar/Downloads/AndriodSDK/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_ee29ba0619616ce586c01e9087b6733b480f58c0.jar" />
+    </item>
+
+</items>

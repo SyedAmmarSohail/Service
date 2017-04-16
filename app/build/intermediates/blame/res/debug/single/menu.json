@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/ammar/Dropbox/AndroidProjects/Humza/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/merged/debug/menu/menu_main_activity2.xml",
+        "source": "/home/ammar/Dropbox/AndroidProjects/Humza/app/src/main/res/menu/menu_main_activity2.xml"
+    },
+    {
+        "merged": "/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ammar/Dropbox/AndroidProjects/Humza/app/src/main/res/menu/menu_main.xml"
+    }
+]

@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Nov 15 12:24:01 PKT 2016
+2.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main_activity2.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/res/menu/menu_main.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+5.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/ammar/Dropbox/AndroidProjects/Humza/app/build/intermediates/res/resources-debug.ap_/res/menu/menu_main_activity2.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
